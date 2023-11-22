@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "accompany-ggp",
+  "description": "GGP陪诊",
+  "appid": "wx6e2c4dbfa57ba856",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
